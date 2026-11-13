@@ -1,0 +1,9 @@
+{
+  "maintenanceMode": false,
+  "maintenanceMessage": "Estamos realizando mejoras en el sitio. Vuelve a visitarnos en unos momentos.",
+  "bannerEnabled": false,
+  "bannerMessage": "Inscripciones abiertas para el ciclo de formación.",
+  "contact": { "phoneMayor": "+52 999 927 0777", "phoneMenor": "+52 999 943 6025" },
+  "social": { "facebook": "#", "instagram": "#", "youtube": "#", "whatsapp": "#" },
+  "adminPasswordHash": "$2b$10$fsK155qyovjyvNRZBQ4wLecSX.Ch1pTVkNT5uEGseoCvSKIimb9i2"
+}
